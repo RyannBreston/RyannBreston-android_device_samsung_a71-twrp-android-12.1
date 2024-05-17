@@ -1,1 +1,0 @@
-# RyannBreston-android_device_samsung_a71-twrp-android-12.1
